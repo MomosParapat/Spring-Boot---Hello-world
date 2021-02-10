@@ -3,7 +3,6 @@
   <groupId>com.boraji.tutorial.springboot</groupId>
   <artifactId>spring-boot-hello-world-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <!-- Demo on github webhook --!>
   <properties>
     <java.version>1.8</java.version>
   </properties>
